@@ -1,3 +1,4 @@
  2 moons 
 b
-Mars has Cold and dry, but you can grow potatoes there
+Mars has Cold and and dry, but you can grow potatoes there
+i have now added an additional line to change some stuff
